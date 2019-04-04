@@ -1,0 +1,8 @@
+CODIGO CLIENTE;RAZAO SOCIAL CLIENTE;CODIGO VENDEDOR;DISTANCIA CLIENTE X VENDEDOR;
+1111111;RUA JOSE DE OLIVEIRA                    ;100;RUA MANOEL SALVADOR                     ;     1346,20;
+2222222;RUA PROGRESSO                           ;100;RUA MANOEL SALVADOR                     ;     1346,20;
+3333333;RUA JOSE REUTER                         ;200;RUA FRANZ MUELLER                       ;     1903,79;
+4444444;RUA BRUNO RUEDIGER                      ;200;RUA FRANZ MUELLER                       ;        0,00;
+5555555;RUA DOUTOR AMADEU DA LUZ                ;300;RUA ANTONIO CESTARI                     ;        0,00;
+6666666;RUA SETE DE SETEMBRO                    ;300;RUA ANTONIO CESTARI                     ;        0,00;
+7777777;RUA XV DE NOVEMBRO                      ;300;RUA ANTONIO CESTARI                     ;        0,00;
